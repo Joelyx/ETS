@@ -20,19 +20,19 @@
 - Añadir un nuevo parámetro al método operativa_cuenta, de nombre cantidad y de tipo float.
 
 Creacion de los paquetes:
-<img  width="400" scr="img/1.png" />
+<img  width="400" src="img/1.png" />
 
 Resto de cambios:
-<img width="400" scr="img/2.png" />
+<img width="400" src="img/2.png" />
 
 ## GIT
 
 - Configurar GIT para el proyecto. Crear un repositorio público en GitHub.
-<img width="400" scr="img/4.png" />
+<img width="400" src="img/4.png" />
 - Realizar, al menos, una operación commit. Comentando el resultado de la ejecución.
-<img width="400" scr="img/5.png" />
+<img width="400" src="img/5.png" />
 - Mostrar el historial de versiones para el proyecto mediante un comando desde consola.
-<img width="400" scr="img/6.png" />
+<img width="400" src="img/6.png" />
 
 
 ## JAVADOC
