@@ -10,6 +10,11 @@ public class Main {
         
     }
 
+    /**
+     * Método que realiza las operaciones sobre una cuenta
+     * @param cuenta1 cuenta sobre la que se realizan las operaciones
+     * @param cantidad cantidad a ingresar y a retirar
+     */
     public static void operativa_cuenta(CCuenta cuenta1, float cantidad){
         double saldoActual = cuenta1.estado();
         System.out.println("El saldo actual es"+ saldoActual );
